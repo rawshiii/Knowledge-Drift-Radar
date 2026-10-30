@@ -41,9 +41,13 @@ Open the local URL displayed in your terminal.
 
 ---
 
-## 👥 Contributors
+## 🤝 Team & Contributors
 
-- [Rashi Jain](https://github.com/rawshiii)
-- [Abhideep Gupta](https://github.com/abhideepgupta)
+This project was collaboratively developed by:
+
+| Contributor | GitHub |
+|---|---|
+| Rashi Jain | [@rawshiii](https://github.com/rawshiii) |
+| Abhideep Gupta | [@abhideepgupta](https://github.com/abhideepgupta) |
 
 
