@@ -1,29 +1,48 @@
-# Welcome to your Lovable project
+# 📊 Knowledge Drift Radar
 
-This project was built with [Lovable](https://lovable.dev).
+An interactive data drift monitoring dashboard that analyzes changes in an Online Retail dataset over time.
 
-## Build with Lovable
+## 🚀 Features
 
-Open your project in the [Lovable editor](https://lovable.dev) and keep building.
+- Monthly data drift monitoring
+- Population Stability Index (PSI) analysis
+- Kolmogorov-Smirnov (KS) statistical testing
+- Random Forest AUC evaluation
+- Feature-level drift detection
+- Interactive analytics dashboards
+- Data relevance scoring and status classification
 
-- **Ship faster**: describe what you want to build and Lovable handles the code.
-- **Stay in sync**: connect the project to GitHub and every change made in Lovable is committed straight to your repository.
-- **Full ownership**: this code is yours. Push to your repository and your changes sync back into Lovable, ready for your next prompt.
+## 🛠️ Tech Stack
 
-## Development
+- React.js
+- TypeScript
+- TanStack Start
+- Tailwind CSS
+- Recharts
+- Vite
 
-Prefer working locally? You need Node.js and npm — [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating).
+## 📈 Drift Monitoring Metrics
 
-```sh
-git clone <this-repository-url>
-cd <repository-name>
-npm i
+- PSI: Measures changes in feature distributions.
+- KS Test: Measures differences between reference and current distributions.
+- Random Forest AUC: Evaluates how distinguishable the reference and current datasets are.
+- Relevance Score: Combines drift metrics into an overall relevance indicator.
+
+## ⚙️ Installation & Setup
+
+```bash
+git clone YOUR_REPOSITORY_URL
+cd Knowledge-Drift-Radar
+npm install
 npm run dev
 ```
 
-## Built with
+Open the local URL displayed in your terminal.
 
-- TanStack Start
-- TypeScript
-- React
-- Tailwind CSS
+## 👩‍💻 Author
+
+Rashi Jain
+
+B.Tech CSE | SRMIST Delhi-NCR
+
+
