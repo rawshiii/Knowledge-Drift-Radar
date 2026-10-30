@@ -1,0 +1,747 @@
+{
+ "reference": "2010-12 \u2013 2011-02",
+ "referenceRows": 102891,
+ "totalRows": 530104,
+ "windows": [
+  {
+   "month": "2011-03",
+   "rows": 35803,
+   "meanPsi": 0.0276,
+   "meanKs": 0.05,
+   "rfAuc": 0.6875,
+   "relevance": 71.8,
+   "status": "Stable",
+   "features": [
+    {
+     "feature": "Quantity",
+     "psi": 0.0138,
+     "ks": 0.0481,
+     "pValue": 8.186305658101481e-54,
+     "refMean": 10.016,
+     "curMean": 10.545,
+     "rfImportance": 0.0888
+    },
+    {
+     "feature": "UnitPrice",
+     "psi": 0.0255,
+     "ks": 0.0575,
+     "pValue": 7.487837294803796e-77,
+     "refMean": 4.255,
+     "curMean": 4.067,
+     "rfImportance": 0.1496
+    },
+    {
+     "feature": "LineTotal",
+     "psi": 0.0157,
+     "ks": 0.0477,
+     "pValue": 7.272643250429992e-53,
+     "refMean": 19.815,
+     "curMean": 20.044,
+     "rfImportance": 0.1757
+    },
+    {
+     "feature": "Hour",
+     "psi": 0.036,
+     "ks": 0.0339,
+     "pValue": 5.508574632945995e-27,
+     "refMean": 13.03,
+     "curMean": 12.972,
+     "rfImportance": 0.2681
+    },
+    {
+     "feature": "Weekday",
+     "psi": 0.0461,
+     "ks": 0.0432,
+     "pValue": 1.5541810943793942e-43,
+     "refMean": 2.357,
+     "curMean": 2.313,
+     "rfImportance": 0.1746
+    },
+    {
+     "feature": "IsUK",
+     "psi": 0.0029,
+     "ks": 0.0147,
+     "pValue": 1.9026362431984564e-05,
+     "refMean": 0.926,
+     "curMean": 0.911,
+     "rfImportance": 0.0146
+    },
+    {
+     "feature": "HasCustomer",
+     "psi": 0.0534,
+     "ks": 0.1048,
+     "pValue": 1.8839815650722433e-254,
+     "refMean": 0.654,
+     "curMean": 0.759,
+     "rfImportance": 0.1284
+    }
+   ]
+  },
+  {
+   "month": "2011-04",
+   "rows": 29096,
+   "meanPsi": 0.0301,
+   "meanKs": 0.0599,
+   "rfAuc": 0.7047,
+   "relevance": 68.7,
+   "status": "Stable",
+   "features": [
+    {
+     "feature": "Quantity",
+     "psi": 0.0166,
+     "ks": 0.0582,
+     "pValue": 2.943666151128313e-67,
+     "refMean": 10.016,
+     "curMean": 10.614,
+     "rfImportance": 0.0741
+    },
+    {
+     "feature": "UnitPrice",
+     "psi": 0.0385,
+     "ks": 0.0747,
+     "pValue": 1.27519514490623e-110,
+     "refMean": 4.255,
+     "curMean": 3.973,
+     "rfImportance": 0.1951
+    },
+    {
+     "feature": "LineTotal",
+     "psi": 0.0172,
+     "ks": 0.0443,
+     "pValue": 3.742439751981601e-39,
+     "refMean": 19.815,
+     "curMean": 18.484,
+     "rfImportance": 0.1479
+    },
+    {
+     "feature": "Hour",
+     "psi": 0.0362,
+     "ks": 0.0636,
+     "pValue": 4.3253749150882314e-80,
+     "refMean": 13.03,
+     "curMean": 12.84,
+     "rfImportance": 0.2663
+    },
+    {
+     "feature": "Weekday",
+     "psi": 0.0231,
+     "ks": 0.0423,
+     "pValue": 1.2264871544475079e-35,
+     "refMean": 2.357,
+     "curMean": 2.231,
+     "rfImportance": 0.1281
+    },
+    {
+     "feature": "IsUK",
+     "psi": 0.0023,
+     "ks": 0.012,
+     "pValue": 0.0028874349128482934,
+     "refMean": 0.926,
+     "curMean": 0.938,
+     "rfImportance": 0.0256
+    },
+    {
+     "feature": "HasCustomer",
+     "psi": 0.0765,
+     "ks": 0.124,
+     "pValue": 2.910551871159876e-304,
+     "refMean": 0.654,
+     "curMean": 0.778,
+     "rfImportance": 0.1629
+    }
+   ]
+  },
+  {
+   "month": "2011-05",
+   "rows": 36164,
+   "meanPsi": 0.0434,
+   "meanKs": 0.0732,
+   "rfAuc": 0.7429,
+   "relevance": 61.5,
+   "status": "Warning",
+   "features": [
+    {
+     "feature": "Quantity",
+     "psi": 0.0376,
+     "ks": 0.0866,
+     "pValue": 6.54678210695635e-175,
+     "refMean": 10.016,
+     "curMean": 10.943,
+     "rfImportance": 0.0722
+    },
+    {
+     "feature": "UnitPrice",
+     "psi": 0.0395,
+     "ks": 0.0598,
+     "pValue": 9.622904132442341e-84,
+     "refMean": 4.255,
+     "curMean": 4.159,
+     "rfImportance": 0.129
+    },
+    {
+     "feature": "LineTotal",
+     "psi": 0.0386,
+     "ks": 0.0913,
+     "pValue": 1.2620325134097672e-194,
+     "refMean": 19.815,
+     "curMean": 21.307,
+     "rfImportance": 0.1372
+    },
+    {
+     "feature": "Hour",
+     "psi": 0.0464,
+     "ks": 0.0645,
+     "pValue": 2.3441460090970413e-97,
+     "refMean": 13.03,
+     "curMean": 13.074,
+     "rfImportance": 0.3713
+    },
+    {
+     "feature": "Weekday",
+     "psi": 0.0543,
+     "ks": 0.0645,
+     "pValue": 3.8251333292106884e-97,
+     "refMean": 2.357,
+     "curMean": 2.53,
+     "rfImportance": 0.1162
+    },
+    {
+     "feature": "IsUK",
+     "psi": 0.0038,
+     "ks": 0.017,
+     "pValue": 3.5415109551960197e-07,
+     "refMean": 0.926,
+     "curMean": 0.909,
+     "rfImportance": 0.0255
+    },
+    {
+     "feature": "HasCustomer",
+     "psi": 0.0833,
+     "ks": 0.1289,
+     "pValue": 0.0,
+     "refMean": 0.654,
+     "curMean": 0.783,
+     "rfImportance": 0.1486
+    }
+   ]
+  },
+  {
+   "month": "2011-06",
+   "rows": 35977,
+   "meanPsi": 0.0303,
+   "meanKs": 0.0592,
+   "rfAuc": 0.7447,
+   "relevance": 64.8,
+   "status": "Warning",
+   "features": [
+    {
+     "feature": "Quantity",
+     "psi": 0.0151,
+     "ks": 0.0533,
+     "pValue": 2.6326471751290233e-66,
+     "refMean": 10.016,
+     "curMean": 10.818,
+     "rfImportance": 0.0648
+    },
+    {
+     "feature": "UnitPrice",
+     "psi": 0.0484,
+     "ks": 0.0758,
+     "pValue": 1.6399418203207422e-133,
+     "refMean": 4.255,
+     "curMean": 3.898,
+     "rfImportance": 0.2121
+    },
+    {
+     "feature": "LineTotal",
+     "psi": 0.009,
+     "ks": 0.0394,
+     "pValue": 2.4930466360941487e-36,
+     "refMean": 19.815,
+     "curMean": 21.173,
+     "rfImportance": 0.1155
+    },
+    {
+     "feature": "Hour",
+     "psi": 0.0432,
+     "ks": 0.0701,
+     "pValue": 1.8611440521078448e-114,
+     "refMean": 13.03,
+     "curMean": 13.251,
+     "rfImportance": 0.3312
+    },
+    {
+     "feature": "Weekday",
+     "psi": 0.0386,
+     "ks": 0.0492,
+     "pValue": 2.071663238913972e-56,
+     "refMean": 2.357,
+     "curMean": 2.46,
+     "rfImportance": 0.1257
+    },
+    {
+     "feature": "IsUK",
+     "psi": 0.0081,
+     "ks": 0.0254,
+     "pValue": 2.3960375898632366e-15,
+     "refMean": 0.926,
+     "curMean": 0.9,
+     "rfImportance": 0.0189
+    },
+    {
+     "feature": "HasCustomer",
+     "psi": 0.0498,
+     "ks": 0.1014,
+     "pValue": 4.400354420977928e-239,
+     "refMean": 0.654,
+     "curMean": 0.756,
+     "rfImportance": 0.1318
+    }
+   ]
+  },
+  {
+   "month": "2011-07",
+   "rows": 38645,
+   "meanPsi": 0.0333,
+   "meanKs": 0.0585,
+   "rfAuc": 0.7423,
+   "relevance": 64.6,
+   "status": "Warning",
+   "features": [
+    {
+     "feature": "Quantity",
+     "psi": 0.0094,
+     "ks": 0.0548,
+     "pValue": 1.0578989270107461e-73,
+     "refMean": 10.016,
+     "curMean": 10.396,
+     "rfImportance": 0.0687
+    },
+    {
+     "feature": "UnitPrice",
+     "psi": 0.0935,
+     "ks": 0.1184,
+     "pValue": 0.0,
+     "refMean": 4.255,
+     "curMean": 3.701,
+     "rfImportance": 0.2865
+    },
+    {
+     "feature": "LineTotal",
+     "psi": 0.0169,
+     "ks": 0.0525,
+     "pValue": 8.497778327871512e-68,
+     "refMean": 19.815,
+     "curMean": 18.611,
+     "rfImportance": 0.1503
+    },
+    {
+     "feature": "Hour",
+     "psi": 0.1017,
+     "ks": 0.1014,
+     "pValue": 9.481281890315225e-252,
+     "refMean": 13.03,
+     "curMean": 13.285,
+     "rfImportance": 0.2781
+    },
+    {
+     "feature": "Weekday",
+     "psi": 0.0016,
+     "ks": 0.0281,
+     "pValue": 9.051526018722403e-20,
+     "refMean": 2.357,
+     "curMean": 2.433,
+     "rfImportance": 0.0913
+    },
+    {
+     "feature": "IsUK",
+     "psi": 0.0029,
+     "ks": 0.0147,
+     "pValue": 1.033024233051635e-05,
+     "refMean": 0.926,
+     "curMean": 0.911,
+     "rfImportance": 0.0189
+    },
+    {
+     "feature": "HasCustomer",
+     "psi": 0.0073,
+     "ks": 0.0399,
+     "pValue": 2.4286884221875134e-39,
+     "refMean": 0.654,
+     "curMean": 0.694,
+     "rfImportance": 0.1062
+    }
+   ]
+  },
+  {
+   "month": "2011-08",
+   "rows": 34483,
+   "meanPsi": 0.055,
+   "meanKs": 0.0824,
+   "rfAuc": 0.7563,
+   "relevance": 57.3,
+   "status": "Drift",
+   "features": [
+    {
+     "feature": "Quantity",
+     "psi": 0.0549,
+     "ks": 0.1068,
+     "pValue": 3.449842481915527e-257,
+     "refMean": 10.016,
+     "curMean": 12.231,
+     "rfImportance": 0.0906
+    },
+    {
+     "feature": "UnitPrice",
+     "psi": 0.0708,
+     "ks": 0.103,
+     "pValue": 3.530523144738279e-239,
+     "refMean": 4.255,
+     "curMean": 4.015,
+     "rfImportance": 0.1881
+    },
+    {
+     "feature": "LineTotal",
+     "psi": 0.0283,
+     "ks": 0.0756,
+     "pValue": 1.0405775104033505e-128,
+     "refMean": 19.815,
+     "curMean": 22.015,
+     "rfImportance": 0.1377
+    },
+    {
+     "feature": "Hour",
+     "psi": 0.0663,
+     "ks": 0.0601,
+     "pValue": 1.7853674972526512e-81,
+     "refMean": 13.03,
+     "curMean": 12.826,
+     "rfImportance": 0.2619
+    },
+    {
+     "feature": "Weekday",
+     "psi": 0.0606,
+     "ks": 0.06,
+     "pValue": 3.7585619861166046e-81,
+     "refMean": 2.357,
+     "curMean": 2.307,
+     "rfImportance": 0.1733
+    },
+    {
+     "feature": "IsUK",
+     "psi": 0.0207,
+     "ks": 0.042,
+     "pValue": 5.794994097887346e-40,
+     "refMean": 0.926,
+     "curMean": 0.884,
+     "rfImportance": 0.0276
+    },
+    {
+     "feature": "HasCustomer",
+     "psi": 0.0834,
+     "ks": 0.129,
+     "pValue": 0.0,
+     "refMean": 0.654,
+     "curMean": 0.783,
+     "rfImportance": 0.1208
+    }
+   ]
+  },
+  {
+   "month": "2011-09",
+   "rows": 49261,
+   "meanPsi": 0.0584,
+   "meanKs": 0.0878,
+   "rfAuc": 0.7393,
+   "relevance": 57.9,
+   "status": "Drift",
+   "features": [
+    {
+     "feature": "Quantity",
+     "psi": 0.0662,
+     "ks": 0.1181,
+     "pValue": 0.0,
+     "refMean": 10.016,
+     "curMean": 11.588,
+     "rfImportance": 0.0887
+    },
+    {
+     "feature": "UnitPrice",
+     "psi": 0.0837,
+     "ks": 0.0965,
+     "pValue": 2.1341304231354547e-270,
+     "refMean": 4.255,
+     "curMean": 3.548,
+     "rfImportance": 0.1901
+    },
+    {
+     "feature": "LineTotal",
+     "psi": 0.0326,
+     "ks": 0.0834,
+     "pValue": 3.535957132803432e-202,
+     "refMean": 19.815,
+     "curMean": 21.489,
+     "rfImportance": 0.146
+    },
+    {
+     "feature": "Hour",
+     "psi": 0.0316,
+     "ks": 0.0365,
+     "pValue": 5.73575964940633e-39,
+     "refMean": 13.03,
+     "curMean": 12.984,
+     "rfImportance": 0.2063
+    },
+    {
+     "feature": "Weekday",
+     "psi": 0.059,
+     "ks": 0.103,
+     "pValue": 2.8824109884382646e-308,
+     "refMean": 2.357,
+     "curMean": 2.752,
+     "rfImportance": 0.1911
+    },
+    {
+     "feature": "IsUK",
+     "psi": 0.0047,
+     "ks": 0.0189,
+     "pValue": 9.604082436844819e-11,
+     "refMean": 0.926,
+     "curMean": 0.907,
+     "rfImportance": 0.0205
+    },
+    {
+     "feature": "HasCustomer",
+     "psi": 0.1313,
+     "ks": 0.1584,
+     "pValue": 0.0,
+     "refMean": 0.654,
+     "curMean": 0.813,
+     "rfImportance": 0.1573
+    }
+   ]
+  },
+  {
+   "month": "2011-10",
+   "rows": 59304,
+   "meanPsi": 0.0495,
+   "meanKs": 0.0738,
+   "rfAuc": 0.7202,
+   "relevance": 62.7,
+   "status": "Warning",
+   "features": [
+    {
+     "feature": "Quantity",
+     "psi": 0.0259,
+     "ks": 0.0681,
+     "pValue": 2.4803602330277578e-152,
+     "refMean": 10.016,
+     "curMean": 10.512,
+     "rfImportance": 0.0667
+    },
+    {
+     "feature": "UnitPrice",
+     "psi": 0.0743,
+     "ks": 0.096,
+     "pValue": 2.8115651192678797e-302,
+     "refMean": 4.255,
+     "curMean": 3.767,
+     "rfImportance": 0.1779
+    },
+    {
+     "feature": "LineTotal",
+     "psi": 0.0136,
+     "ks": 0.0342,
+     "pValue": 1.1115841241378505e-38,
+     "refMean": 19.815,
+     "curMean": 19.476,
+     "rfImportance": 0.1329
+    },
+    {
+     "feature": "Hour",
+     "psi": 0.0278,
+     "ks": 0.0597,
+     "pValue": 8.168494744497213e-117,
+     "refMean": 13.03,
+     "curMean": 13.163,
+     "rfImportance": 0.2035
+    },
+    {
+     "feature": "Weekday",
+     "psi": 0.017,
+     "ks": 0.0507,
+     "pValue": 1.8400486297317897e-84,
+     "refMean": 2.357,
+     "curMean": 2.32,
+     "rfImportance": 0.1309
+    },
+    {
+     "feature": "IsUK",
+     "psi": 0.0087,
+     "ks": 0.0262,
+     "pValue": 6.245656968260461e-23,
+     "refMean": 0.926,
+     "curMean": 0.899,
+     "rfImportance": 0.018
+    },
+    {
+     "feature": "HasCustomer",
+     "psi": 0.1792,
+     "ks": 0.1814,
+     "pValue": 0.0,
+     "refMean": 0.654,
+     "curMean": 0.836,
+     "rfImportance": 0.2701
+    }
+   ]
+  },
+  {
+   "month": "2011-11",
+   "rows": 83369,
+   "meanPsi": 0.0348,
+   "meanKs": 0.0602,
+   "rfAuc": 0.7326,
+   "relevance": 65.1,
+   "status": "Warning",
+   "features": [
+    {
+     "feature": "Quantity",
+     "psi": 0.0027,
+     "ks": 0.0207,
+     "pValue": 1.6376619835709257e-17,
+     "refMean": 10.016,
+     "curMean": 9.05,
+     "rfImportance": 0.0656
+    },
+    {
+     "feature": "UnitPrice",
+     "psi": 0.0755,
+     "ks": 0.1021,
+     "pValue": 0.0,
+     "refMean": 4.255,
+     "curMean": 3.605,
+     "rfImportance": 0.2046
+    },
+    {
+     "feature": "LineTotal",
+     "psi": 0.0175,
+     "ks": 0.058,
+     "pValue": 3.3669869572784615e-135,
+     "refMean": 19.815,
+     "curMean": 18.106,
+     "rfImportance": 0.1522
+    },
+    {
+     "feature": "Hour",
+     "psi": 0.0408,
+     "ks": 0.0583,
+     "pValue": 1.1070659228465186e-136,
+     "refMean": 13.03,
+     "curMean": 13.177,
+     "rfImportance": 0.2496
+    },
+    {
+     "feature": "Weekday",
+     "psi": 0.0359,
+     "ks": 0.0589,
+     "pValue": 2.2569902306061158e-139,
+     "refMean": 2.357,
+     "curMean": 2.562,
+     "rfImportance": 0.1453
+    },
+    {
+     "feature": "IsUK",
+     "psi": 0.0002,
+     "ks": 0.0037,
+     "pValue": 0.5589863108231743,
+     "refMean": 0.926,
+     "curMean": 0.929,
+     "rfImportance": 0.0146
+    },
+    {
+     "feature": "HasCustomer",
+     "psi": 0.0711,
+     "ks": 0.1198,
+     "pValue": 0.0,
+     "refMean": 0.654,
+     "curMean": 0.774,
+     "rfImportance": 0.1681
+    }
+   ]
+  },
+  {
+   "month": "2011-12",
+   "rows": 25111,
+   "meanPsi": 0.0607,
+   "meanKs": 0.0646,
+   "rfAuc": 0.8132,
+   "relevance": 53.8,
+   "status": "Drift",
+   "features": [
+    {
+     "feature": "Quantity",
+     "psi": 0.0025,
+     "ks": 0.02,
+     "pValue": 1.9664962610307398e-07,
+     "refMean": 10.016,
+     "curMean": 12.514,
+     "rfImportance": 0.0442
+    },
+    {
+     "feature": "UnitPrice",
+     "psi": 0.1015,
+     "ks": 0.0946,
+     "pValue": 7.876755631683893e-158,
+     "refMean": 4.255,
+     "curMean": 4.044,
+     "rfImportance": 0.1762
+    },
+    {
+     "feature": "LineTotal",
+     "psi": 0.018,
+     "ks": 0.062,
+     "pValue": 5.629312349874742e-68,
+     "refMean": 19.815,
+     "curMean": 25.439,
+     "rfImportance": 0.0972
+    },
+    {
+     "feature": "Hour",
+     "psi": 0.1614,
+     "ks": 0.1136,
+     "pValue": 1.8276872485265727e-227,
+     "refMean": 13.03,
+     "curMean": 13.09,
+     "rfImportance": 0.3505
+    },
+    {
+     "feature": "Weekday",
+     "psi": 0.1328,
+     "ks": 0.113,
+     "pValue": 6.64112749656931e-225,
+     "refMean": 2.357,
+     "curMean": 2.432,
+     "rfImportance": 0.1981
+    },
+    {
+     "feature": "IsUK",
+     "psi": 0.0031,
+     "ks": 0.014,
+     "pValue": 0.000752048128136641,
+     "refMean": 0.926,
+     "curMean": 0.94,
+     "rfImportance": 0.0151
+    },
+    {
+     "feature": "HasCustomer",
+     "psi": 0.0055,
+     "ks": 0.0349,
+     "pValue": 8.922605877999406e-22,
+     "refMean": 0.654,
+     "curMean": 0.689,
+     "rfImportance": 0.1187
+    }
+   ]
+  }
+ ]
+}
