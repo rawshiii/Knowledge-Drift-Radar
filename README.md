@@ -39,10 +39,11 @@ npm run dev
 
 Open the local URL displayed in your terminal.
 
-## 👩‍💻 Author
+---
 
-Rashi Jain
+## 👥 Contributors
 
-B.Tech CSE | SRMIST Delhi-NCR
+- [Rashi Jain](https://github.com/rawshiii)
+- [Abhideep Gupta](https://github.com/abhideepgupta)
 
 
